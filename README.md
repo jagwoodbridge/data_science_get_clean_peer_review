@@ -40,15 +40,12 @@ Variables:
 
 Operation:
 1. Copy "run_analysis.R" file to working directory.
-2. 
 2. Add the following files to working directory:
 - 'features.txt'
 - 'activity_labels.txt'
-- 
 3. Add the following folders to working directory:
 - 'train' containing X_train.txt, y_train.txt and subject_train.txt.
 - 'test' containing X_test.txt, y_test.txt and subject_test.txt.
-- 
 4. run command: 'source("run_analysis.R")' from R console.
 
 Assumptions:
