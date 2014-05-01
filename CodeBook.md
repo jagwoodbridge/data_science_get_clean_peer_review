@@ -1,4 +1,3 @@
-
 Getting and Cleaning Data Coursera Peer Assessment
 ----------------------------------------------------
 Human Activity Recognition Using Smartphones Dataset
